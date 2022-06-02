@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@700&family=Oswald:wght@600&display=swap');
+#myTab .active{
+    border-bottom: solid 3px #fff !important;
+    color: #3E5A86 !important;
+    height: 100%;
+}
+#filtro{
+background: rgba(33, 32, 32, 0.12);
+backdrop-filter: blur(50px);
+}
+.absoluta{
+    top:2400px;    
+}
+.img-scale:hover{
+    transform: scale(1.2);
+    transition: all ease-in-out .3s;
+}
